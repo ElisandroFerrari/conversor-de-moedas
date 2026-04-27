@@ -50,4 +50,4 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 1. Faça o clone deste repositório:
    ```bash
-git clone https://github.com/ElisandroFerrari/conversor-de-moedas.git
+   git clone https://github.com/ElisandroFerrari/conversor-de-moedas.git
