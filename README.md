@@ -28,9 +28,22 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ## 📸 Demonstração
 
 > [!TIP]
-https://conversor-de-moedas-ef.netlify.app/<img width="205" height="446" alt="celular" src="https://github.com/user-attachments/assets/f7be90ab-b7c1-467b-b809-9a69e44f6a14" />
-<img width="1353" height="657" alt="conversor" src="https://github.com/user-attachments/assets/71f77941-c177-4ce6-a309-959a80adb9cf" />
+> **Acesse o projeto online:** [Clique aqui para abrir o conversor](https://conversor-de-moedas-ef.netlify.app/)
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img width="205" alt="Visual Mobile" src="https://github.com/user-attachments/assets/f7be90ab-b7c1-467b-b809-9a69e44f6a14" />
+        <br><em>Mobile</em>
+      </td>
+      <td align="center" valign="middle">
+        <img width="800" alt="Visual Desktop" src="https://github.com/user-attachments/assets/71f77941-c177-4ce6-a309-959a80adb9cf" />
+        <br><em>Desktop</em>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 💻 Como Rodar o Projeto
